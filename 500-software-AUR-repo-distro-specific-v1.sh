@@ -29,6 +29,8 @@ sh AUR-DS/install-perl-linux-desktopfiles-v*.sh
 
 sh AUR/install-yad-v*.sh
 
+sh AUR/install-lxqt-arc-dark-theme-git-v*.sh
+
 echo "################################################################"
 echo "####       Software from AUR-DS folder installed          ######"
 echo "################################################################"
