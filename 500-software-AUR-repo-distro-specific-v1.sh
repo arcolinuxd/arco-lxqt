@@ -29,7 +29,7 @@ echo "AUR - DESKTOP SPECIFIC APPLICATIONS "
 
 sh AUR/install-yad-v*.sh
 
-sh AUR/install-lxqt-arc-dark-theme-git-v*.sh
+sh AUR-DS/install-lxqt-arc-dark-theme-git-v*.sh
 
 echo "################################################################"
 echo "####       Software from AUR-DS folder installed          ######"
