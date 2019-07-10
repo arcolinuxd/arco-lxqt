@@ -1,4 +1,4 @@
-# ArcoLinuxD Lxqt Desktop
+# ArcoLinuxD LXQt desktop
 
 # Start by installing the latest ArcoLinuxD installation
 
