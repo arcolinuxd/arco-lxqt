@@ -31,6 +31,7 @@ sudo pacman -S arcolinux-common-git --noconfirm --needed
 #sudo pacman -S arcolinux-config-deepin-git --noconfirm --needed
 sudo pacman -S arcolinux-config-git --noconfirm --needed
 #sudo pacman -S arcolinux-config-gnome-git --noconfirm --needed
+sudo pacman -S arcolinux-config-lxqt-git --noconfirm --needed
 #sudo pacman -S arcolinux-config-mate-git --noconfirm --needed
 #sudo pacman -S arcolinux-config-plasma-git --noconfirm --needed
 #sudo pacman -S arcolinux-config-xmobar-git --noconfirm --needed
