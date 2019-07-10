@@ -47,23 +47,23 @@ sudo pacman -S awesome-terminal-fonts --noconfirm --needed
 sudo pacman -S compton  --noconfirm --needed
 sudo pacman -S dmenu  --noconfirm --needed
 sudo pacman -S feh --noconfirm --needed
-sudo pacman -S gmrun --noconfirm --needed
-sudo pacman -S gsimplecal --noconfirm --needed
+#sudo pacman -S gmrun --noconfirm --needed
+#sudo pacman -S gsimplecal --noconfirm --needed
 sudo pacman -S imagemagick --noconfirm --needed
 sudo pacman -S jq --noconfirm --needed
-sudo pacman -S lxappearance --noconfirm --needed
-sudo pacman -S nitrogen --noconfirm --needed
-sudo pacman -S obconf --noconfirm --needed
-sudo pacman -S rofi --noconfirm --needed
+#sudo pacman -S lxappearance --noconfirm --needed
+#sudo pacman -S nitrogen --noconfirm --needed
+#sudo pacman -S obconf --noconfirm --needed
+#sudo pacman -S rofi --noconfirm --needed
 sudo pacman -S thunar --noconfirm --needed
-sudo pacman -S tint2 --noconfirm --needed
-sudo pacman -S volumeicon  --noconfirm --needed
+#sudo pacman -S tint2 --noconfirm --needed
+#sudo pacman -S volumeicon  --noconfirm --needed
 sudo pacman -S w3m  --noconfirm --needed
-sudo pacman -S xfce4-appfinder --noconfirm --needed
-sudo pacman -S xfce4-notifyd --noconfirm --needed
-sudo pacman -S xfce4-power-manager --noconfirm --needed
-sudo pacman -S xfce4-settings --noconfirm --needed
-sudo pacman -S xfce4-screenshooter --noconfirm --needed
+#sudo pacman -S xfce4-appfinder --noconfirm --needed
+#sudo pacman -S xfce4-notifyd --noconfirm --needed
+#sudo pacman -S xfce4-power-manager --noconfirm --needed
+#sudo pacman -S xfce4-settings --noconfirm --needed
+#sudo pacman -S xfce4-screenshooter --noconfirm --needed
 sudo pacman -S xfce4-taskmanager --noconfirm --needed
 
 echo "################################################################"
