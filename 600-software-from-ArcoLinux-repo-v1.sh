@@ -123,6 +123,3 @@ echo "################################################################"
 echo "removing all folders and files unnecessary for this desktop from .local"
 echo "################################################################"
 echo
-echo "Making sure termite is standard terminal in thunar - deleting rest"
-rm -rf ~/.local/share/xfpanel-switch
-rm -rf ~/.local/share/applications
