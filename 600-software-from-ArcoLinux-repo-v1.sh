@@ -63,7 +63,7 @@ sudo pacman -S arcolinux-neofetch-git --noconfirm --needed
 #sudo pacman -S arcolinux-obmenu-generator-git --noconfirm --needed
 #sudo pacman -S arcolinux-obmenu-generator-minimal-git --noconfirm --needed
 #sudo pacman -S arcolinux-openbox-configs-git --noconfirm --needed
-sudo pacman -S arcolinux-openbox-themes-git --noconfirm --needed
+#sudo pacman -S arcolinux-openbox-themes-git --noconfirm --needed
 sudo pacman -S arcolinux-pipemenus-git --noconfirm --needed
 sudo pacman -S arcolinux-plank-git --noconfirm --needed
 sudo pacman -S arcolinux-plank-themes-git --noconfirm --needed
