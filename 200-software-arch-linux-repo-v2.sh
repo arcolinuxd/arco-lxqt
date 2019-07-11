@@ -53,7 +53,7 @@ sudo pacman -S --noconfirm --needed gpick
 sudo pacman -S --noconfirm --needed inkscape
 sudo pacman -S --noconfirm --needed nomacs
 #sudo pacman -S --noconfirm --needed pinta
-sudo pacman -S --noconfirm --needed ristretto
+#sudo pacman -S --noconfirm --needed ristretto
 #sudo pacman -S --noconfirm --needed
 
 echo "Installing category Internet"
