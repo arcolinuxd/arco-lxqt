@@ -42,7 +42,8 @@ sudo pacman -S arcolinux-conky-collection-git --noconfirm --needed
 sudo pacman -S arcolinux-fonts-git --noconfirm --needed
 sudo pacman -S arcolinux-geany-git --noconfirm --needed
 #sudo pacman -S arcolinux-i3wm-git --noconfirm --needed
-sudo pacman -S arcolinux-kvantum-git --noconfirm --needed
+#sudo pacman -S arcolinux-kvantum-git --noconfirm --needed
+sudo pacman -S arcolinux-kvantum-lxqt-git --noconfirm --needed
 #sudo pacman -S arcolinux-kvantum-plasma-git --noconfirm --needed
 sudo pacman -S arcolinux-lightdm-gtk-greeter --noconfirm --needed
 #sudo pacman -S arcolinux-lightdm-gtk-greeter-plasma --noconfirm --needed
