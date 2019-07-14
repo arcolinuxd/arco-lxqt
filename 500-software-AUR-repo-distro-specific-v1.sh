@@ -29,6 +29,8 @@ echo "AUR - DESKTOP SPECIFIC APPLICATIONS "
 
 sh AUR/install-yad-v*.sh
 
+sh AUR-DS/install-ksuperkey-v*.sh
+
 sh AUR-DS/install-lxqt-arc-dark-theme-git-v*.sh
 
 echo "################################################################"
