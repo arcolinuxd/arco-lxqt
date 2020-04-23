@@ -79,7 +79,6 @@ w3m
 urxvt-resize-font-git
 xfce4-screenshooter
 xfce4-taskmanager
-xfce4-terminal
 hardcode-fixer-git
 )
 
