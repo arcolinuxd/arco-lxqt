@@ -66,7 +66,7 @@ feh
 gmrun
 gtk-engine-murrine
 imagemagick
-kvantum
+kvantum-qt5
 lxappearance
 lxrandr
 nitrogen
