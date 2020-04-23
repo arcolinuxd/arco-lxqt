@@ -67,6 +67,7 @@ gmrun
 gtk-engine-murrine
 imagemagick
 kvantum-qt5
+kvantum-theme-arc
 lxappearance
 lxrandr
 nitrogen
