@@ -60,7 +60,7 @@ arcolinux-config-lxqt-git
 arcolinux-lxqt-dconf-git
 arcolinux-lxqt-applications-add-git
 arcolinux-lxqt-applications-hide-git
-arcolinux-kvantum-lxqt
+arcolinux-kvantum-lxqt-git
 )
 
 count=0
