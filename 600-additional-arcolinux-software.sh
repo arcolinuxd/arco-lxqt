@@ -104,7 +104,7 @@ echo "Remove cache of old wallpaper from script 100"
 echo "################################################################"
 echo;tput sgr0
 echo "Because you ran script 100 you have now a cached wallpaper."
-echo "Can we remove the old wallpaper from the .cache in your home directory?"
+echo "Can we remove the old wallpaper from the .cache in your home directory?" (Y/y)
 echo "Answer N or n to skip this."
 read response
 if [[ "$response" == [yY] ]]; then
