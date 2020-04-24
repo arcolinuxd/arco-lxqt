@@ -108,7 +108,7 @@ echo "Can we remove the old wallpaper from the .cache in your home directory? (Y
 echo "Answer N or n to skip this."
 read response
 if [[ "$response" == [yY] ]]; then
-  cp -r ~/.cache/pcmanfm-qt/default/wallpaper.cache
+  rm ~/.cache/pcmanfm-qt/default/wallpaper.cache
 fi
 
 tput setaf 6;echo "################################################################"
