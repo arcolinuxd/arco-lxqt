@@ -100,6 +100,16 @@ done
 ###############################################################################
 
 tput setaf 6;echo "################################################################"
+echo "Remove cache of old wallpaper from script 100"
+echo "################################################################"
+echo;tput sgr0
+echo "Can we remove the old wallpaper from the .cache in your home directory?"
+read response
+if [[ "$response" == [yY] ]]; then
+  cp -r ~/.cache/pcmanfm-qt/default/wallpaper.cache
+fi
+
+tput setaf 6;echo "################################################################"
 echo "Copying all files and folders from /etc/skel to ~"
 echo "################################################################"
 echo;tput sgr0
