@@ -57,7 +57,7 @@ func_category Arcolinux-Desktop
 list=(
 arcolinux-lxqt-git
 arcolinux-config-all-desktops-git
-arcolinux-lxqt-dconf-git
+arcolinux-dconf-all-desktops-git
 arcolinux-lxqt-applications-add-git
 arcolinux-lxqt-applications-hide-git
 arcolinux-kvantum-lxqt-git
